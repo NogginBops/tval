@@ -2,7 +2,7 @@
 layout: page
 title:  "Skogsmulle"
 author: noggin_bops
-permalink: /skogsmulle/
+permalink: /skogsmulle.html
 ---
 
 TODO
