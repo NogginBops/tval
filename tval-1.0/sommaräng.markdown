@@ -5,4 +5,9 @@ author: noggin_bops
 permalink: /sommarang.html
 ---
 
-TODO
+Tvål av tvålmassa.
+
+Doft av:
+Blå renfana
+Lavendel
+Pepparmynta

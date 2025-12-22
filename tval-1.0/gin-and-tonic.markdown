@@ -5,4 +5,9 @@ author: noggin_bops
 permalink: /gin-and-tonic.html
 ---
 
-TODO
+Tvål från tvålmassa inehållande:
+
+Doft av:
+Enbär
+Svartpeppar
+Koriander

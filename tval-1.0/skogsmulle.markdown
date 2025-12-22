@@ -5,4 +5,16 @@ author: noggin_bops
 permalink: /skogsmulle.html
 ---
 
-TODO
+Använd inte förän: 2026-02-01!
+
+Tvål gjord på:
+Olivolja
+Rapsolja
+Kokosolja
+Sheasmör
+
+Doft av:
+Tallbarr
+Slånlav
+Vetiver
+Copaiba
