@@ -1,0 +1,4 @@
+{% if page.style %} 
+{% capture page-css-file %}/assets/css/{{ page.style }}.css{% endcapture %}
+<link id="page-stylesheet" rel="stylesheet" href="{{ page-css-file | relative_url }}" />
+{% endif %}

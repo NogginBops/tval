@@ -35,6 +35,8 @@ minima:
   skin: auto
   date_format: "%Y-%m-%d"
   show_excerpts: false
+  hide_site_feed_link: true
+
 
 # Do supress sass deprecation warnings
 # - Noggin_bops 2025-12-14
