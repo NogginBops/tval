@@ -1,17 +1,31 @@
 ---
 ---
 
+$top-bg-color: #387538;
+$bottom-bg-color: #223C1D;
+
 body {
-    background: linear-gradient(in oklab, #2a6b12, #004b19) !important;
+    background: linear-gradient(in oklab, $top-bg-color, $bottom-bg-color) !important;
 }
 
 .site-header {
-    background: #2a6b12 !important;
+    background: $top-bg-color !important;
     border-bottom-color: rgba(255, 255, 130, 1);
 }
 
+$on-palm:          600px !default;
+$on-medium:        $on-palm !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
 .site-nav {
-    background-color: #2a6b12;
+    @include media-query($on-medium) {
+        background-color: lighten($top-bg-color, 5);
+    }
 }
 
 .nav-items .nav-item {

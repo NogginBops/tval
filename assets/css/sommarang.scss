@@ -10,12 +10,23 @@ body {
     border-bottom-color: rgba(255, 255, 130, 1);
 }
 
+$on-palm:          600px !default;
+$on-medium:        $on-palm !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
 .site-nav {
-    background-color: #C0D7E3;
+    @include media-query($on-medium) {
+        background-color: lighten(#C0D7E3, 5);
+    }
 }
 
 .nav-items .nav-item {
-    color: white;
+    color: black;
 }
 
 .post-header {
@@ -23,5 +34,12 @@ body {
 }
 
 .post-content {
-    color: white;
+    color: black;
+}
+
+table {
+    --minima-table-text-color: black !important;
+    /* FIXME: Something more pleasant than just blending towards black.. */
+    --minima-table-header-bg-color: rgba(0, 0, 0, 0.2) !important;
+    --minima-table-zebra-color: rgba(0, 0, 0, 0.1) !important;
 }

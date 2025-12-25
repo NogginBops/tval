@@ -6,31 +6,28 @@ permalink: /sommarang.html
 style: sommarang
 ---
 
-Tvål av tvålmassa.
+En tvål som ska påminna om blommor och örter man kan hitta på en äng, renfana (Tanacetum annuum), lavendel, och pepparmynta. Dessa starka dofter balanseras ut av copaiba (oleoresin från Copaifera officinalis) och myrra, båda kåda från afrikanska träd.
 
-Doft av:
-Blå renfana
-Lavendel
-Pepparmynta
+Det står fel på förpackingen att denna tvål innehåller Olivolja och Sheasmör, denna tvål innehåller bara kokosolja och rapsolja.
 
 <table>
     <colgroup>
-        <col width="50%" />
-        <col width="50%" />
+        <col width="100%" />
     </colgroup>
     <thead>
         <tr>
-            <th colspan="2">Oljor:</th>
+            <th>Oljor:</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td markdown="span">Kokosolja</td>
-            <td markdown="span">?</td>
+        </tr>
+        <tr>
+            <td markdown="span">Rapsolja</td>
         </tr>
     </tbody>
 </table>
-
 
 <table>
     <colgroup>
@@ -62,6 +59,48 @@ Pepparmynta
         <tr>
             <td markdown="span">Myrra</td>
             <td markdown="span">11.1%</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <colgroup>
+        <col width="100%" />
+    </colgroup>
+    <thead>
+        <tr>
+            <th colspan="2">Färgad med:</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span">Blå renfana</td>
+        </tr>
+        <tr>
+            <td markdown="span">Ultramarin mica</td>
+        </tr>
+        <tr>
+            <td markdown="span">Titanoxid</td>
+        </tr>
+        <tr>
+            <td markdown="span">Zinkoxid</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+    <colgroup>
+        <col width="100%" />
+    </colgroup>
+    <thead>
+        <tr>
+            <th>Ingredienser tvålmassa:</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td markdown="span">	
+Aqua, Glycerin, Sodium Cocoate, Sorbitol, Sodium Stearate, Pentylene Glycol, Sodium Coco Sulfate, Cocos Nucifera Oil, Polyglyceryl-4 Oleate, Sodium Chloride, Sodium Citrate, Tetrasodium Iminodisuccinate, Citric Acid</td>
         </tr>
     </tbody>
 </table>

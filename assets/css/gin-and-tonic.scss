@@ -13,8 +13,19 @@ body {
     border-bottom-color: rgba(255, 255, 130, 1);
 }
 
+$on-palm:          600px !default;
+$on-medium:        $on-palm !default;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
 .site-nav {
-    background: lighten($top-bg-color, 5);
+    @include media-query($on-medium) {
+        background-color: lighten($top-bg-color, 5);
+    }
 }
 
 .nav-items .nav-item {
