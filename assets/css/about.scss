@@ -1,25 +1,27 @@
 ---
 ---
 
+$bg-color: rgb(22, 20, 23);
+
 body {
-    background: linear-gradient(in oklab, #ff99db, #ffe667) !important;
+    background: $bg-color;
 }
 
 .site-header {
-    background: #ff99db !important;
+    background: $bg-color;
     border-bottom-color: rgba(255, 255, 130, 1);
 }
 
 .site-nav {
-    background-color: #ff99db;
+    background-color: lighten($bg-color, 5);
 }
 
-.nav-items .nav-item {
+.site-nav .nav-item {
     color: white;
 }
 
 .post-header {
-    border-color: rgba(255, 255, 130, 1);
+    border-bottom-color: rgba(255, 255, 130, 1);
 }
 
 .post-content {
